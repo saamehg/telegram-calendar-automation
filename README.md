@@ -48,10 +48,10 @@ The system processes the message and creates an event in Google Calendar without
 ---
 
 ## 📷 Screenshots
-![Google Calendar] (<img width="986" height="549" alt="Screenshot 2026-03-25 at 21 40 59" src="https://github.com/user-attachments/assets/328c2eff-2469-49fc-b20e-5ebec8218539" />)
+![Google Calendar] <img width="986" height="549" alt="Screenshot 2026-03-25 at 21 40 59" src="https://github.com/user-attachments/assets/328c2eff-2469-49fc-b20e-5ebec8218539" />
 
-![Telegram Bot] (<img width="418" height="553" alt="Screenshot 2026-03-25 at 21 42 39" src="https://github.com/user-attachments/assets/d4236bbf-8553-42c7-a617-2da938b85cfb" />)
+![Telegram Bot] <img width="418" height="553" alt="Screenshot 2026-03-25 at 21 42 39" src="https://github.com/user-attachments/assets/d4236bbf-8553-42c7-a617-2da938b85cfb" />
 
-![Make Scenario] (<img width="989" height="540" alt="Screenshot 2026-03-25 at 21 31 15" src="https://github.com/user-attachments/assets/8e8b2b6d-af08-4ae4-b4cd-0f20d1e7fb68" />)
+![Make Scenario] <img width="989" height="540" alt="Screenshot 2026-03-25 at 21 31 15" src="https://github.com/user-attachments/assets/8e8b2b6d-af08-4ae4-b4cd-0f20d1e7fb68" />
 
 
