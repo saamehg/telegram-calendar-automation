@@ -1,5 +1,8 @@
 # Telegram to Google Calendar Automation
 
+## 🚀 Project Type
+Automation / Data Workflow
+
 ## 📌 Overview
 This project automates task creation by connecting a Telegram bot to Google Calendar.  
 Instead of manually creating calendar events, users can simply send a message via Telegram, and the event is automatically added.
